@@ -1,6 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="******************** INDIA ***********",******************* INDIA ***********
 
+#EXTINF:-1 tvg-id="" tvg-name="CNBC Awaaz" tvg-logo="https://i.imgur.com/qMGgnjb.png" group-title="INDIA",CNBC Awaaz
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Business" tvg-logo="https://i.imgur.com/qMGgnjb.png" group-title="INDIA",Zee Business
+https://z5ams.akamaized.net/out/v1/7dcee573362e48908ab1b335d8780625/hdntl=exp=1610731048~acl=%2f*~data=hdntl~hmac=890659dc159d5bbe1d7656a5e535cfeb77911cb61dddf6337f5187fca354e544/index_16.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee News" tvg-logo="https://i.imgur.com/qMGgnjb.png" group-title="INDIA",Zee News
+https://z5ams.akamaized.net/linear/hls/pb/event/W1x4XiDkR5yE7K9amJwTDg/stream/6ddd7f64-5177-4ccc-b581-0743ad58d0ad:SIN/variant/c0ffee3455f60938c3ea0246ea152be9/bandwidth/hdntl=exp=1610731188~acl=%2f*~id=61b385fb-1a96-4a7c-978c-af8c02eda926~data=hdntl~hmac=642d34246df525647da2c38a7c98f0bc8d78d971d531bb9a81040afcb827bdb8/1901110.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BharatVarsh" tvg-logo="https://i.imgur.com/qMGgnjb.png" group-title="INDIA",TV9 BharatVarsh
+https://z5ams.akamaized.net/linear/hls/pb/event/q6IfEp2QSOWxqapGhoQmlw/stream/4a0e7f9b-fb1e-4623-8f2e-37d75babc98a:SIN/variant/8d5fb512f94119e0df9aa55a50b3f618/bandwidth/hdntl=exp=1610731287~acl=%2f*~id=cfdfc600-63aa-4f07-806d-74ebd56767bd~data=hdntl~hmac=a8ed04734a651972ae9a6ac8222dda6d719192f015f66beeaddbcf6730d9e09f/2665212.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Aajtak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" group-title="INDIA",Aajtak
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/playlist.m3u8
 
@@ -61,9 +73,6 @@ https://m-c048-j2apps.s.llnwi.net/hls/0524.ETNow.in.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MirrorNow" tvg-logo="" group-title="INDIA",MirrorNow
 https://m-c048-j2apps.s.llnwi.net/hls/3873.MirrorNow.in.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CNBC Awaaz" tvg-logo="https://i.imgur.com/qMGgnjb.png" group-title="INDIA",CNBC Awaaz
-https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",CNBC Bajar
 https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
 
@@ -77,6 +86,11 @@ https://abp-i.akamaihd.net/hls/live/765531/abpmajha/masterhls_1564.m3u8
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Big Magic" tvg-logo="https://i.imgur.com/qMGgnjb.png" group-title="INDIA",Big Magic
+https://z5ams.akamaized.net/bigmagic/tracks-v1a1/hdntl=exp=1610731496~acl=%2f*~data=hdntl~hmac=0b4f26f06b5277726d0fbb9803e122ce4524c99d6a0edc62f2e500aafc3dd825/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Zing" tvg-logo="https://i.imgur.com/qMGgnjb.png" group-title="INDIA",Zing
+https://z5ams.akamaized.net/zing/index.m3u8?hdnts=st=1610643553~exp=1610646553~acl=/zing/index.m3u8*~hmac=f7d98fafda011ee63bfa35af0cc6ad557cdf7637f6b199a738f2fc441ecd6c27
 
 #EXTINF:-1 tvg-id="" tvg-name="bollywood-classic" tvg-logo="" group-title="INDIA",bollywood-classic
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
