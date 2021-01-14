@@ -78,10 +78,6 @@ https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 
 
 
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="bollywood-classic" tvg-logo="" group-title="INDIA",bollywood-classic
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
 
@@ -230,6 +226,31 @@ http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ibXkhex.jpg" group-title="USA",ZEE SMILE
 http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Hare Krishna
+https://m-c04-j2apps.s.llnwi.net/hls/5265.HareKrsna.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Sanskar
+https://m-c29-j2apps.s.llnwi.net/hls/0116.Sanskar.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",KrishnaVani
+https://m-c03-j2apps.s.llnwi.net/hls/6491.KrishnaVani.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Valam
+https://m-c08-j2apps.s.llnwi.net/hls/6518.ValambhaktiHD.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",SikshaTV
+https://m-a5-j2apps.s.llnwi.net/hls/shikshatv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Jigyasa TV
+https://m-c01-j2apps.s.llnwi.net/hls/7039.JigyasaTV.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Vedanta
+https://m-c09-j2apps.s.llnwi.net/hls/8031.VedantTV.in.m3u8
+
+
+
+
 
 
 #EXTINF:1 tvg-id="471" tvg-name="Sony SAB HD" group-title="Hindi  JioTV  Entertainment" tvg-chno="1" tvg-logo="https://assets.wxca.cf/images/j/IMRhVzJXgz.png",Sony SAB HD
